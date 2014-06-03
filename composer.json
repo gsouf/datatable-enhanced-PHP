@@ -1,0 +1,22 @@
+{
+    "name": "sneakybobito/dt-enhanced",
+    "type": "library",
+    "description": "PHP helper for datatable enhanced javascript's library.",
+    "keywords": ["datatable","javascript"],
+    "homepage": "https://github.com/SneakyBobito/datatable-enhanced-PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Soufiane Ghzal",
+            "email": "sghzal@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0" : {
+            "DtEnhanced" : "lib/"
+        }
+    }
+}
